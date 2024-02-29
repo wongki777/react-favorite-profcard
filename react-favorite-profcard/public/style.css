@@ -93,3 +93,14 @@ main {
   background: #6617cb;
   color: #222;
 }
+
+.star--icon {
+  border: none;
+  background: transparent;
+  display: flex;
+}
+
+.star--icon:active {
+  transform: none;
+  box-shadow: none;
+}
